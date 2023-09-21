@@ -14,6 +14,3 @@ Carrinho de compras com funcionalidades de adicionar e remover do carrinho, atua
 4. npm start || yarn start;
 5. Abrir [http://localhost:3000](http://localhost:3000) no browser.
 
-## Demo
-
-https://cart-app-1.netlify.app/
